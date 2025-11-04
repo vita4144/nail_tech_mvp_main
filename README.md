@@ -67,5 +67,5 @@ I can help you with:
 
 I am currently available for new projects. I would love to hear about your idea.
 
-* **Hire me on Upwork:** [**Link to your Upwork Profile**](https://www.upwork.com/freelancers/~01f36819a3cb7ec782?mp_source=share)
+* **Hire me on Upwork:** [**Link to Upwork Profile**](https://www.upwork.com/freelancers/~01f36819a3cb7ec782?mp_source=share)
 * **Send me an Email:** [*vita.pohrebniak@gmail.com*]
