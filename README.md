@@ -1,73 +1,71 @@
-# Welcome to your Lovable project
+# 💅 Nail Tech Scheduler
 
-## Project info
+A simple, clean, and efficient booking solution built for independent nail technicians and estheticians.
 
-**URL**: https://lovable.dev/projects/5b42be1d-d21e-44b4-b39c-aa7f0ed51957
+This project is a portfolio piece demonstrating my ability to quickly build, and deploy a functional web application from a real-world problem.
 
-## How can I edit this code?
+**[Live Demo Link ➡️](https://[nail-pro-dash-qnsl.vercel.app])**
 
-There are several ways of editing your application.
+---
 
-**Use Lovable**
+### 🖼️ Project Gallery
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/5b42be1d-d21e-44b4-b39c-aa7f0ed51957) and start prompting.
 
-Changes made via Lovable will be committed automatically to this repo.
+| Mobile View | Desktop Calendar | Add New Appointment |
 
-**Use your preferred IDE**
+ <img width="300" height="200" alt="Screenshot 2025-11-03 at 13 05 40" src="https://github.com/user-attachments/assets/845dee2e-19fb-4b4a-a5d3-19b95cc8b823" />
+ <img width="300" height="200" alt="Screenshot 2025-11-03 at 13 05 00" src="https://github.com/user-attachments/assets/3f502460-3322-4e79-b336-dabca7fe8376" />
+ <img width="300" height="200" alt="Screenshot 2025-11-03 at 13 51 45" src="https://github.com/user-attachments/assets/8077ab50-9e5a-4a3d-b910-a5b703afb0a3" />
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+*Fully responsive design for on-the-go management.* | *Clean, easy-to-read calendar.* | *Intuitive forms for quick booking.* 
 
-Follow these steps:
+---
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+### 🤔 The Problem (The "Why")
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+Many independent technicians manage their appointments through DMs, texts, or paper notebooks. This is time-consuming, disorganized, and prone to error. While large, complex salon software exists, it's often expensive and too complicated for a solo entrepreneur.
 
-# Step 3: Install the necessary dependencies.
-npm i
+### ✅ The Solution (The "What")
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+This application provides a focused, simple solution. It gives technicians a clear digital calendar to manage their bookings and client information, accessible from any device, without the bloat of enterprise software.
 
-**Edit a file directly in GitHub**
+### ✨ Core Features
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+* **View Bookings:** See all appointments in a clean daily, weekly, or monthly calendar view.
+* **Manage Appointments:** Quickly create, edit, or delete appointments.
+* **Client Database:** Store and retrieve client contact information for easy follow-up.
+* **Responsive Design:** Fully functional on both desktop and mobile, so it can be used at the salon or on the go.
 
-**Use GitHub Codespaces**
+### 🛠️ Technology Stack
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+This project was built using a modern, efficient tech stack:
 
-## What technologies are used for this project?
+* **Front-End:** React
+* **Language:** TypeScript
+* **Build Tool:** Vite
+* **Styling:** Tailwind CSS
+* **UI Components:** shadcn-ui
 
-This project is built with:
+---
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+## 🚀 Looking to Build Your Own App?
 
-## How can I deploy this project?
+Hi! I'm a developer and project manager who specializes in helping founders and entrepreneurs turn their ideas into high-quality, functional prototypes and Minimum Viable Products (MVPs).
 
-Simply open [Lovable](https://lovable.dev/projects/5b42be1d-d21e-44b4-b39c-aa7f0ed51957) and click on Share -> Publish.
+This "Nail Tech Scheduler" is a perfect example of my work: a real-world problem, a clean solution, and a rapid, professional execution.
 
-## Can I connect a custom domain to my Lovable project?
+### My Services
 
-Yes, you can!
+I can help you with:
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+* **💡 Idea to Prototype:** Have an idea? I'll build a functional prototype you can test with real users.
+* **🚀 MVP Development:** Let's build the first version of your product to launch to the market.
+* **🤝 Technical Partner for Non-Technical Founders:** I'll handle all the tech, so you can focus on building your business.
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+### Let's Talk!
+
+I am currently available for new projects. I would love to hear about your idea.
+
+* **Hire me on Upwork:** [**Link to your Upwork Profile**](https://www.upwork.com/freelancers/~01f36819a3cb7ec782?mp_source=share)
+* **Send me an Email:** [*vita.pohrebniak@gmail.com*]
